@@ -1,4 +1,5 @@
 {
+    
     "editor.fontSize": 16,
     "terminal.integrated.fontSize": 16,
     "workbench.colorTheme": "Omni",
@@ -32,4 +33,5 @@
     "liveServer.settings.donotVerifyTags": true,
     "tabnine.experimentalAutoImports": true,
     "cSpell.language": "en,pt,pt_BR",
+  
   }
