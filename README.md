@@ -1,4 +1,3 @@
-{
     
     "editor.fontSize": 16,
     "terminal.integrated.fontSize": 16,
@@ -34,4 +33,3 @@
     "tabnine.experimentalAutoImports": true,
     "cSpell.language": "en,pt,pt_BR",
   
-  }
